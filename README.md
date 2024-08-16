@@ -6,7 +6,7 @@
 - [telegramm](https://t.me/georgy_kot)
 - email - kotov.georgy.1993@gmail.com
   
-**Место работы:** [Nekki Game Studio]
+**Место работы:** [Nekki Game Studio](https://nekki.com/#main-intro)
 
 **Должность:** Middle QA Enginner
 
